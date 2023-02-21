@@ -1,4 +1,4 @@
-# rw-wcs-workshop-23 1.1
+# rw-wcs-workshop-23 version 1.1
 
 ## Release notes
 
